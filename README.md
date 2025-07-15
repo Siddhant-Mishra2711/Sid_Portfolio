@@ -82,8 +82,8 @@ Build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and
 ### Clone and Run
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
+git clone https://github.com/yourusername/Sid_Portfolio.git
+cd Sid_Portfolio
 npm install
 npm run dev
 
